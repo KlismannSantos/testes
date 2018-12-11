@@ -1,7 +1,8 @@
 <?php 
 
-echo "teste git"
+echo "testes git"
  
- echo "teste de atualização remota"
-
+ echo "atualização remota"
+ 
+ echo "Conflitos";
  ?>
